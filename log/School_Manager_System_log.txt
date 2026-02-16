@@ -1,0 +1,1494 @@
+[2025-12-17 23:56:21] Library Item ===> Item added (id : 2000)
+[2025-12-17 23:56:21] Library Item ===> Item added (id : 2005)
+[2025-12-17 23:56:21] Library Item ===> Item added (id : 2010)
+[2025-12-17 23:56:21] Library Item ===> Book info requested (id : 2000)
+[2025-12-17 23:56:21] Library Item ===> Magazine info requested (id : 2005)
+[2025-12-17 23:56:21] Library Item ===> DVD info requested (id : 2010)
+[2025-12-17 23:56:21] Library Item ===> Show all items requested
+[2025-12-17 23:56:21] Library Item ===> Search success (id : 2000)
+[2025-12-17 23:56:21] Library Item ===> Search failed (id : 9999)
+[2025-12-17 23:56:21] Library Item ===> Book edited (id : 2000)
+[2025-12-17 23:56:21] Library Item ===> Book info requested (id : 2000)
+[2025-12-17 23:56:21] Library Item ===> Book edited (id : 2000)
+[2025-12-17 23:56:21] Library Item ===> Item removed (id : 2010)
+[2025-12-17 23:56:21] Library Item ===> Show all items requested
+[2025-12-17 23:56:21] Library Item ===> Count requested (total : 2)
+[2025-12-17 23:59:30] ClassRoom ===> Added (id : 2025)
+[2025-12-17 23:59:30] ClassRoom ===> Added (id : 2028)
+[2025-12-17 23:59:30] ClassRoom ===> Info requested (id : 2025)
+[2025-12-17 23:59:30] ClassRoom ===> Info requested (id : 2028)
+[2025-12-17 23:59:30] ClassRoom ===> Show all requested
+[2025-12-17 23:59:30] ClassRoom ===> Search success (id : 2025)
+[2025-12-17 23:59:30] ClassRoom ===> Search failed (id : 9999)
+[2025-12-17 23:59:30] ClassRoom ===> Edited (id : 2025)
+[2025-12-17 23:59:30] ClassRoom ===> Info requested (id : 2025)
+[2025-12-17 23:59:30] ClassRoom ===> Removed (id : 2028)
+[2025-12-17 23:59:30] ClassRoom ===> Show all requested
+[2025-12-17 23:59:30] ClassRoom ===> Count requested (total : 1)
+[2025-12-18 00:10:25] Member ===> Added (membership_num : ali123)
+[2025-12-18 00:10:25] Member ===> Added (membership_num : sara_m)
+[2025-12-18 00:10:25] Member ===> Added (membership_num : reza_a)
+[2025-12-18 00:10:25] Member ===> Info requested (membership_num : ali123)
+[2025-12-18 00:10:25] Member ===> Info requested (membership_num : sara_m)
+[2025-12-18 00:10:25] Member ===> Info requested (membership_num : reza_a)
+[2025-12-18 00:10:25] Member ===> Count requested (total : 3)
+[2025-12-18 00:10:25] Member ===> Edited (membership_num : sara_m)
+[2025-12-18 00:10:25] Member ===> Info requested (membership_num : sara_m)
+[2025-12-18 00:10:25] Member ===> Search success (membership_num : sara_m)
+[2025-12-18 00:10:25] Member ===> Search failed (membership_num : 9999)
+[2025-12-18 00:10:25] Member ===> Removed (membership_num : reza_a)
+[2025-12-18 00:10:25] Member ===> Count requested (total : 2)
+[2025-12-18 00:13:23] Subject ===> Added (id : 456)
+[2025-12-18 00:13:23] Subject ===> Added (id : 460)
+[2025-12-18 00:13:23] Subject ===> Added (id : 464)
+[2025-12-18 00:13:23] Subject ===> Show all requested
+[2025-12-18 00:13:23] Subject ===> Search success (id : 460)
+[2025-12-18 00:13:23] Subject ===> Search failed (id : 9999)
+[2025-12-18 00:13:23] Subject ===> Search success (id : 456)
+[2025-12-18 00:13:23] Subject ===> Edited (id : 456)
+[2025-12-18 00:13:23] Subject ===> Removed (id : 464)
+[2025-12-18 00:13:23] Subject ===> Show all requested
+[2025-12-18 00:13:23] Subject ===> Count requested (total : 2)
+[2025-12-18 00:26:23] Student ===> Added (id : 1000)
+[2025-12-18 00:26:23] Student ===> Added (id : 1002)
+[2025-12-18 00:26:23] Student ===> Added (id : 1004)
+[2025-12-18 00:26:23] Student ===> Info requested (id : 1000)
+[2025-12-18 00:26:23] Student ===> Info requested (id : 1002)
+[2025-12-18 00:26:23] Student ===> Info requested (id : 1004)
+[2025-12-18 00:26:23] Student ===> Show all requested
+[2025-12-18 00:26:23] Student ===> Search success (id : 1002)
+[2025-12-18 00:26:23] Student ===> Search failed (id : 9999)
+[2025-12-18 00:26:23] Student ===> Edited (id : 1000)
+[2025-12-18 00:26:23] Student ===> Info requested (id : 1000)
+[2025-12-18 00:26:23] Student ===> Removed (id : 1004)
+[2025-12-18 00:26:23] Student ===> Show all requested
+[2025-12-18 00:26:23] Student ===> Count requested (total : 2)
+[2025-12-18 00:26:23] Student ===> Edited (id : 1002)
+[2025-12-18 00:26:23] Student ===> Info requested (id : 1002)
+[2025-12-18 01:08:17] SchoolEmployee ===> Added Employee (ID: 1000)
+[2025-12-18 01:08:17] SchoolEmployee ===> Added Employee (ID: 1001)
+[2025-12-18 01:08:17] SchoolEmployee ===> Added Employee (ID: 1002)
+[2025-12-18 01:08:17] SchoolEmployee ===> Show all requested
+[2025-12-18 01:08:17] SchoolEmployee ===> Employee count : 3
+[2025-12-18 01:08:17] SchoolEmployee ===> Search success (id : 1000)
+[2025-12-18 01:08:17] SchoolEmployee ===> Search failed (id : 1002)
+[2025-12-18 01:08:17] SchoolEmployee ===> Teacher edited (id : 1001)
+[2025-12-18 01:08:17] SchoolEmployee ===> Teacher info requested (id : 1001)
+[2025-12-18 01:08:17] SchoolEmployee ===> School Manager edited (id : 1000)
+[2025-12-18 01:08:17] SchoolEmployee ===> School Manager info requested (id : 1000)
+[2025-12-18 01:08:17] SchoolEmployee ===> Added Employee (ID: 1003)
+[2025-12-18 01:08:17] SchoolEmployee ===> Assistant Principal edited (id : 1003)
+[2025-12-18 01:08:17] SchoolEmployee ===> Assistant Principal info requested (id : 1003)
+[2025-12-18 01:08:17] SchoolEmployee ===> Janitor edited (id : 1002)
+[2025-12-18 01:08:17] SchoolEmployee ===> Janitor info requested (id : 1002)
+[2025-12-18 01:08:17] SchoolEmployee ===> Employee Removed (ID: 1002)
+[2025-12-18 01:08:17] SchoolEmployee ===> Show all requested
+[2025-12-18 02:01:22] Student ===> Search failed (id : 158)
+[2025-12-18 02:07:04] Student ===> Search failed (id : 158)
+[2025-12-18 02:07:04] Subject ===> Search failed (id : 158)
+[2025-12-18 02:08:52] SchoolEmployee ===> Added Employee (ID: 1000)
+[2025-12-18 02:08:52] SchoolEmployee ===> Added Employee (ID: 1001)
+[2025-12-18 02:08:52] SchoolEmployee ===> Added Employee (ID: 1002)
+[2025-12-18 02:08:52] SchoolEmployee ===> Show all requested
+[2025-12-18 02:08:52] SchoolEmployee ===> Employee count : 3
+[2025-12-18 02:08:52] SchoolEmployee ===> Search success (id : 1000)
+[2025-12-18 02:08:52] SchoolEmployee ===> Search failed (id : 1002)
+[2025-12-18 02:08:52] SchoolEmployee ===> Teacher edited (id : 1001)
+[2025-12-18 02:08:52] SchoolEmployee ===> Teacher info requested (id : 1001)
+[2025-12-18 02:08:52] SchoolEmployee ===> School Manager edited (id : 1000)
+[2025-12-18 02:08:52] SchoolEmployee ===> School Manager info requested (id : 1000)
+[2025-12-18 02:08:52] SchoolEmployee ===> Added Employee (ID: 1003)
+[2025-12-18 02:08:52] SchoolEmployee ===> Assistant Principal edited (id : 1003)
+[2025-12-18 02:08:52] SchoolEmployee ===> Assistant Principal info requested (id : 1003)
+[2025-12-18 02:08:52] SchoolEmployee ===> Janitor edited (id : 1002)
+[2025-12-18 02:08:52] SchoolEmployee ===> Janitor info requested (id : 1002)
+[2025-12-18 02:08:52] SchoolEmployee ===> Employee Removed (ID: 1002)
+[2025-12-18 02:08:52] SchoolEmployee ===> Show all requested
+[2025-12-18 02:21:21] Student ===> Search failed (id : 158)
+[2025-12-18 02:21:21] Subject ===> Search failed (id : 158)
+[2025-12-18 02:21:21] Library Item ===> Search failed (id : 158)
+[2025-12-18 13:14:19] Student ===> Search failed (id : 158)
+[2025-12-18 13:14:19] Subject ===> Search failed (id : 158)
+[2025-12-18 13:14:19] Library Item ===> Search failed (id : 158)
+[2025-12-18 16:51:32] Student ===> Added (id : 1000)
+[2025-12-18 17:03:44] Student ===> Search failed (id : 100)
+[2025-12-18 17:06:31] Student ===> Search failed (id : 100)
+[2025-12-18 17:06:39] Student ===> Search failed (id : 456)
+[2025-12-18 17:07:12] Student ===> Search failed (id : 1000)
+[2025-12-18 17:07:21] Student ===> Search failed (id : 10)
+[2025-12-18 17:10:55] Student ===> Search failed (id : 100)
+[2025-12-18 17:11:00] Student ===> Search failed (id : 1000)
+[2025-12-18 17:11:09] Student ===> Search failed (id : 1002)
+[2025-12-18 17:11:34] Student ===> Added (id : 1000)
+[2025-12-18 17:11:34] Student ===> Added (id : 1002)
+[2025-12-18 17:11:34] Student ===> Added (id : 1004)
+[2025-12-18 17:11:34] Student ===> Info requested (id : 1000)
+[2025-12-18 17:11:34] Student ===> Info requested (id : 1002)
+[2025-12-18 17:11:34] Student ===> Info requested (id : 1004)
+[2025-12-18 17:11:34] Student ===> Show all requested
+[2025-12-18 17:11:34] Student ===> Search success (id : 1002)
+[2025-12-18 17:11:34] Student ===> Search failed (id : 9999)
+[2025-12-18 17:11:34] Student ===> Edited (id : 1000)
+[2025-12-18 17:11:34] Student ===> Info requested (id : 1000)
+[2025-12-18 17:11:34] Student ===> Removed (id : 1004)
+[2025-12-18 17:11:34] Student ===> Show all requested
+[2025-12-18 17:11:34] Student ===> Count requested (total : 2)
+[2025-12-18 17:11:34] Student ===> Edited (id : 1002)
+[2025-12-18 17:11:34] Student ===> Info requested (id : 1002)
+[2025-12-18 17:12:17] Student ===> Search failed (id : 1002)
+[2025-12-18 17:13:24] Student ===> Added (id : 1000)
+[2025-12-18 17:13:35] Student ===> Search failed (id : 1002)
+[2025-12-18 17:13:40] Student ===> Search failed (id : 1000)
+[2025-12-18 18:28:23] Student ===> Added (id : 1000)
+[2025-12-18 18:28:35] Student ===> Search failed (id : 1002)
+[2025-12-18 18:28:38] Student ===> Search failed (id : 1002)
+[2025-12-18 18:28:46] Student ===> Search failed (id : 1002)
+[2025-12-18 18:34:16] Student ===> Added (id : 1000)
+[2025-12-22 19:45:25] Student ===> Added (id : 1000)
+[2025-12-22 19:54:09] Student ===> Added (id : 1000)
+[2025-12-22 19:54:19] Student ===> Added (id : 1002)
+[2025-12-22 20:07:08] Student ===> Added (id : 1000)
+[2025-12-22 20:07:23] Student ===> Added (id : 1002)
+[2025-12-22 20:08:55] Student ===> Added (id : 1000)
+[2025-12-22 20:16:29] Student ===> Added (id : 1000)
+[2025-12-22 20:16:29] Student ===> Added (id : 1002)
+[2025-12-22 20:16:29] Student ===> Added (id : 1004)
+[2025-12-22 20:16:29] Student ===> Info requested (id : 1000)
+[2025-12-22 20:16:29] Student ===> Info requested (id : 1002)
+[2025-12-22 20:16:29] Student ===> Info requested (id : 1004)
+[2025-12-22 20:16:29] Student ===> Show all requested
+[2025-12-22 20:16:29] Student ===> Search success (id : 1002)
+[2025-12-22 20:16:29] Student ===> Search failed (id : 9999)
+[2025-12-22 20:16:29] Student ===> Edited (id : 1000)
+[2025-12-22 20:16:29] Student ===> Info requested (id : 1000)
+[2025-12-22 20:16:29] Student ===> Removed (id : 1004)
+[2025-12-22 20:16:29] Student ===> Show all requested
+[2025-12-22 20:16:29] Student ===> Count requested (total : 2)
+[2025-12-22 20:16:29] Student ===> Edited (id : 1002)
+[2025-12-22 20:16:29] Student ===> Info requested (id : 1002)
+[2025-12-22 20:24:49] Student ===> Show all requested
+[2025-12-22 20:25:03] Student ===> Added (id : 1000)
+[2025-12-22 20:25:03] Student ===> Added (id : 1002)
+[2025-12-22 20:25:03] Student ===> Added (id : 1004)
+[2025-12-22 20:25:03] Student ===> Info requested (id : 1000)
+[2025-12-22 20:25:03] Student ===> Info requested (id : 1002)
+[2025-12-22 20:25:03] Student ===> Info requested (id : 1004)
+[2025-12-22 20:25:03] Student ===> Show all requested
+[2025-12-22 20:25:03] Student ===> Search success (id : 1002)
+[2025-12-22 20:25:03] Student ===> Search failed (id : 9999)
+[2025-12-22 20:25:03] Student ===> Edited (id : 1000)
+[2025-12-22 20:25:03] Student ===> Info requested (id : 1000)
+[2025-12-22 20:25:03] Student ===> Removed (id : 1004)
+[2025-12-22 20:25:03] Student ===> Show all requested
+[2025-12-22 20:25:03] Student ===> Count requested (total : 2)
+[2025-12-22 20:25:03] Student ===> Edited (id : 1002)
+[2025-12-22 20:25:03] Student ===> Info requested (id : 1002)
+[2025-12-22 20:28:40] Student ===> Added (id : 1000)
+[2025-12-22 20:28:47] Student ===> Show all requested
+[2025-12-22 20:29:42] Student ===> Added (id : 1002)
+[2025-12-22 20:29:51] Student ===> Show all requested
+[2025-12-22 20:30:07] Student ===> Show all requested
+[2025-12-22 20:30:22] Student ===> Show all requested
+[2025-12-22 20:40:39] Student ===> Show all requested
+[2025-12-22 20:41:06] Student ===> Show all requested
+[2025-12-22 20:42:35] Student ===> Show all requested
+[2025-12-22 20:42:45] Student ===> Show all requested
+[2025-12-22 20:44:09] Student ===> Show all requested
+[2025-12-22 20:48:12] Student ===> Search failed (id : 12)
+[2025-12-22 20:50:33] Student ===> Search failed (id : 12)
+[2025-12-22 21:26:21] Student ===> Search failed (id : 10)
+[2025-12-22 21:27:34] Student ===> Added (id : 1000)
+[2025-12-22 21:27:54] Student ===> Show all requested
+[2025-12-22 21:28:15] Student ===> Search success (id : 1000)
+[2025-12-22 21:39:14] Student ===> Added (id : 1000)
+[2025-12-22 21:39:41] Student ===> Show all requested
+[2025-12-22 21:40:04] Student ===> Search success (id : 1000)
+[2025-12-22 21:40:24] Student ===> Search failed (id : 100)
+[2025-12-22 21:42:52] Student ===> Search failed (id : 13)
+[2025-12-22 21:44:48] Student ===> Added (id : 1000)
+[2025-12-22 21:44:48] Student ===> Added (id : 1002)
+[2025-12-22 21:44:48] Student ===> Added (id : 1004)
+[2025-12-22 21:44:48] Student ===> Info requested (id : 1000)
+[2025-12-22 21:44:48] Student ===> Info requested (id : 1002)
+[2025-12-22 21:44:48] Student ===> Info requested (id : 1004)
+[2025-12-22 21:44:48] Student ===> Show all requested
+[2025-12-22 21:44:48] Student ===> Search success (id : 1002)
+[2025-12-22 21:44:48] Student ===> Search failed (id : 9999)
+[2025-12-22 21:44:48] Student ===> Edited (id : 1000)
+[2025-12-22 21:44:48] Student ===> Info requested (id : 1000)
+[2025-12-22 21:44:48] Student ===> Removed (id : 1004)
+[2025-12-22 21:44:48] Student ===> Show all requested
+[2025-12-22 21:44:48] Student ===> Count requested (total : 2)
+[2025-12-22 21:44:48] Student ===> Edited (id : 1002)
+[2025-12-22 21:44:48] Student ===> Info requested (id : 1002)
+[2025-12-22 21:45:44] Student ===> Added (id : 1000)
+[2025-12-22 21:45:54] Student ===> Show all requested
+[2025-12-22 21:46:33] Student ===> Search success (id : 1000)
+[2025-12-22 21:46:41] Student ===> Search failed (id : 1333)
+[2025-12-22 21:46:53] Student ===> Search failed (id : 14)
+[2025-12-22 21:47:01] Student ===> Search success (id : 1000)
+[2025-12-22 21:54:09] Student ===> Show all requested
+[2025-12-22 22:54:55] Student ===> Show all requested
+[2025-12-22 22:55:00] Student ===> Show all requested
+[2025-12-22 23:04:23] Student ===> Added (id : 1000)
+[2025-12-22 23:04:41] Student ===> Search success (id : 1000)
+[2025-12-22 23:04:46] Student ===> Show all requested
+[2025-12-22 23:05:09] Student ===> Search success (id : 1000)
+[2025-12-22 23:05:18] Student ===> Show all requested
+[2025-12-22 23:05:25] Student ===> Show all requested
+[2025-12-23 13:18:29] Student ===> Added (id : 1000)
+[2025-12-23 13:18:39] Student ===> Show all requested
+[2025-12-23 13:18:56] Student ===> Show all requested
+[2025-12-23 13:19:03] Student ===> Search success (id : 1000)
+[2025-12-23 13:19:08] Student ===> Search failed (id : 100)
+[2025-12-23 13:19:38] Student ===> Search failed (id : 100)
+[2025-12-23 13:19:56] Student ===> Search success (id : 1000)
+[2025-12-23 13:20:05] Student ===> Show all requested
+[2025-12-23 13:24:42] Student ===> Search failed (id : 1000)
+[2025-12-23 13:25:23] Student ===> Added (id : 1000)
+[2025-12-23 13:25:29] Student ===> Show all requested
+[2025-12-23 13:25:42] Student ===> Search success (id : 1000)
+[2025-12-23 13:26:43] Student ===> Search success (id : 1000)
+[2025-12-23 13:34:33] Student ===> Added (id : 1000)
+[2025-12-23 13:35:18] Student ===> Added (id : 1002)
+[2025-12-23 13:36:21] Student ===> Added (id : 1004)
+[2025-12-23 13:36:26] Student ===> Show all requested
+[2025-12-23 13:36:56] Student ===> Search success (id : 1004)
+[2025-12-23 13:37:00] Student ===> Search success (id : 1002)
+[2025-12-23 13:37:04] Student ===> Search success (id : 1000)
+[2025-12-23 13:37:16] Student ===> Search failed (id : 100)
+[2025-12-23 13:37:26] Student ===> Show all requested
+[2025-12-23 13:37:47] Student ===> Search success (id : 1004)
+[2025-12-23 13:38:32] Student ===> Show all requested
+[2025-12-23 13:38:50] Student ===> Show all requested
+[2025-12-23 13:40:23] Student ===> Search success (id : 1000)
+[2025-12-23 13:45:42] Student ===> Search success (id : 1000)
+[2025-12-23 13:45:47] Student ===> Search success (id : 1000)
+[2025-12-23 13:45:49] Student ===> Search success (id : 1000)
+[2025-12-23 13:50:17] Student ===> Added (id : 1000)
+[2025-12-23 13:50:22] Student ===> Show all requested
+[2025-12-23 13:50:31] Student ===> Search success (id : 1000)
+[2025-12-23 13:50:45] Student ===> Search failed (id : 100)
+[2025-12-23 13:50:59] Student ===> Search success (id : 1000)
+[2025-12-23 13:51:23] Student ===> Search success (id : 1000)
+[2025-12-23 13:51:23] Student ===> Removed (id : 1000)
+[2025-12-23 13:51:30] Student ===> Search failed (id : 1000)
+[2025-12-23 13:51:38] Student ===> Show all requested
+[2025-12-23 13:59:55] Student ===> Added (id : 1000)
+[2025-12-23 14:00:00] Student ===> Show all requested
+[2025-12-23 14:00:04] Student ===> Show all requested
+[2025-12-23 14:01:40] Student ===> Added (id : 1000)
+[2025-12-23 14:01:53] Student ===> Show all requested
+[2025-12-23 14:02:05] Student ===> Search success (id : 1000)
+[2025-12-23 14:02:13] Student ===> Search failed (id : 100)
+[2025-12-23 14:02:43] Student ===> Search failed (id : 100)
+[2025-12-23 14:06:40] Student ===> Added (id : 1000)
+[2025-12-23 14:07:15] Student ===> Search success (id : 1000)
+[2025-12-23 14:08:21] Student ===> Edited (id : 1000)
+[2025-12-23 14:08:32] Student ===> Show all requested
+[2025-12-23 14:24:40] Student ===> Added (id : 1000)
+[2025-12-23 14:24:44] Student ===> Show all requested
+[2025-12-23 14:24:50] Student ===> Show all requested
+[2025-12-23 14:25:02] Student ===> Search success (id : 1000)
+[2025-12-23 14:25:06] Student ===> Search failed (id : 100)
+[2025-12-23 14:25:31] Student ===> Search success (id : 1000)
+[2025-12-23 14:25:47] Student ===> Edited (id : 1000)
+[2025-12-23 14:25:57] Student ===> Show all requested
+[2025-12-23 14:26:14] Student ===> Search success (id : 1000)
+[2025-12-23 14:26:14] Student ===> Removed (id : 1000)
+[2025-12-23 14:28:30] Student ===> Added (id : 1000)
+[2025-12-23 14:29:42] Student ===> Added (id : 1000)
+[2025-12-23 14:29:49] Student ===> Show all requested
+[2025-12-23 14:30:01] Student ===> Search success (id : 1000)
+[2025-12-23 14:30:06] Student ===> Search failed (id : 100)
+[2025-12-23 14:30:19] Student ===> Search success (id : 1000)
+[2025-12-23 14:30:27] Student ===> Edited (id : 1000)
+[2025-12-23 14:30:45] Student ===> Show all requested
+[2025-12-23 14:31:19] Student ===> Search success (id : 1000)
+[2025-12-23 14:31:19] Student ===> Removed (id : 1000)
+[2025-12-23 14:31:26] Student ===> Show all requested
+[2025-12-23 14:41:07] Student ===> Show all requested
+[2025-12-23 14:41:50] Subject ===> Show all requested
+[2025-12-23 14:49:48] Student ===> Added (id : 1000)
+[2025-12-23 14:49:54] Student ===> Show all requested
+[2025-12-23 14:50:11] Student ===> Search success (id : 1000)
+[2025-12-23 14:50:18] Student ===> Search failed (id : 20)
+[2025-12-23 14:50:34] Student ===> Search success (id : 1000)
+[2025-12-23 14:50:50] Student ===> Edited (id : 1000)
+[2025-12-23 14:50:57] Student ===> Show all requested
+[2025-12-23 16:39:36] Student ===> Added (id : 1000)
+[2025-12-23 16:39:49] Student ===> Show all requested
+[2025-12-23 17:26:25] Student ===> Added (id : 1000)
+[2025-12-23 17:26:29] Student ===> Show all requested
+[2025-12-23 17:26:41] Student ===> Search success (id : 1000)
+[2025-12-23 17:26:45] Student ===> Search failed (id : 100)
+[2025-12-23 17:26:55] Student ===> Search success (id : 1000)
+[2025-12-23 17:27:39] Student ===> Edited (id : 1000)
+[2025-12-23 17:27:44] Student ===> Show all requested
+[2025-12-23 17:27:52] Student ===> Search success (id : 1000)
+[2025-12-23 17:27:52] Student ===> Removed (id : 1000)
+[2025-12-24 17:19:29] Subject ===> Added (id : 456)
+[2025-12-24 17:19:33] Subject ===> Show all requested
+[2025-12-24 17:19:54] Subject ===> Search success (id : 456)
+[2025-12-24 17:19:58] Subject ===> Search failed (id : 4)
+[2025-12-24 17:20:09] Subject ===> Search success (id : 456)
+[2025-12-24 17:20:35] Subject ===> Search success (id : 456)
+[2025-12-24 17:20:46] Subject ===> Edited (id : 456)
+[2025-12-24 17:20:48] Subject ===> Show all requested
+[2025-12-24 17:21:04] Subject ===> Search success (id : 456)
+[2025-12-24 17:21:04] Subject ===> Removed (id : 456)
+[2025-12-24 17:21:06] Subject ===> Search failed (id : 456)
+[2025-12-24 17:22:16] Subject ===> Added (id : 456)
+[2025-12-24 17:22:28] Subject ===> Search success (id : 456)
+[2025-12-24 17:36:24] ClassRoom ===> Added (id : 2028)
+[2025-12-24 17:37:32] ClassRoom ===> Edited (id : 2028)
+[2025-12-24 17:37:55] ClassRoom ===> Removed (id : 2028)
+[2025-12-24 17:43:36] ClassRoom ===> Added (id : 2025)
+[2025-12-24 17:45:07] ClassRoom ===> Edited (id : 2025)
+[2025-12-24 17:45:19] ClassRoom ===> Removed (id : 2025)
+[2025-12-24 17:58:12] ClassRoom ===> Added (id : 2025)
+[2025-12-24 17:58:35] ClassRoom ===> Show all requested
+[2025-12-24 17:58:53] ClassRoom ===> Search success (id : 2025)
+[2025-12-24 17:59:53] ClassRoom ===> Edited (id : 2025)
+[2025-12-24 18:00:11] ClassRoom ===> Removed (id : 2025)
+[2025-12-25 13:13:55] Student ===> Added (id : 1000)
+[2025-12-25 13:13:59] Student ===> Show all requested
+[2025-12-25 13:14:04] Student ===> Show all requested
+[2025-12-25 13:14:17] Student ===> Search success (id : 1000)
+[2025-12-25 13:14:20] Student ===> Search failed (id : 100)
+[2025-12-25 13:15:14] Student ===> Search success (id : 1000)
+[2025-12-25 13:15:18] Student ===> Edited (id : 1000)
+[2025-12-25 13:15:23] Student ===> Show all requested
+[2025-12-25 13:15:34] Student ===> Search success (id : 1000)
+[2025-12-25 13:15:34] Student ===> Removed (id : 1000)
+[2025-12-29 13:44:49] Subject ===> Added (id : 456)
+[2025-12-29 13:44:55] Subject ===> Show all requested
+[2025-12-29 13:45:59] Subject ===> Added (id : 456)
+[2025-12-29 13:46:04] Subject ===> Show all requested
+[2025-12-29 13:49:35] Subject ===> Added (id : 456)
+[2025-12-29 13:49:40] Subject ===> Show all requested
+[2025-12-29 13:50:11] Subject ===> Search success (id : 456)
+[2025-12-29 13:50:12] Subject ===> Search success (id : 456)
+[2025-12-29 13:50:13] Subject ===> Search success (id : 456)
+[2025-12-29 13:50:14] Subject ===> Search success (id : 456)
+[2025-12-29 13:53:06] Subject ===> Added (id : 456)
+[2025-12-29 13:53:15] Subject ===> Search failed (id : 465)
+[2025-12-29 13:53:20] Subject ===> Show all requested
+[2025-12-29 13:53:30] Subject ===> Search success (id : 456)
+[2025-12-29 13:53:43] Subject ===> Search success (id : 456)
+[2025-12-29 13:53:44] Subject ===> Search success (id : 456)
+[2025-12-29 13:53:57] Subject ===> Search success (id : 456)
+[2025-12-29 13:54:01] Subject ===> Search success (id : 456)
+[2025-12-29 13:58:38] Subject ===> Added (id : 456)
+[2025-12-29 13:58:44] Subject ===> Show all requested
+[2025-12-29 13:58:55] Subject ===> Search success (id : 456)
+[2025-12-29 13:58:56] Subject ===> Search success (id : 456)
+[2025-12-29 13:59:10] Subject ===> Edited (id : 456)
+[2025-12-29 13:59:15] Subject ===> Show all requested
+[2025-12-29 13:59:28] Subject ===> Search success (id : 456)
+[2025-12-29 13:59:28] Subject ===> Removed (id : 456)
+[2025-12-29 14:00:02] Subject ===> Added (id : 460)
+[2025-12-29 14:00:12] Subject ===> Search failed (id : 456)
+[2025-12-29 14:00:18] Subject ===> Show all requested
+[2025-12-29 14:00:34] Subject ===> Search success (id : 460)
+[2025-12-29 14:00:43] Subject ===> Edited (id : 460)
+[2025-12-29 14:00:47] Subject ===> Show all requested
+[2025-12-29 14:02:42] Subject ===> Added (id : 456)
+[2025-12-29 14:02:46] Subject ===> Show all requested
+[2025-12-29 14:03:00] Subject ===> Search success (id : 456)
+[2025-12-29 14:57:12] Subject ===> Added (id : 456)
+[2025-12-29 14:57:18] Subject ===> Show all requested
+[2025-12-29 14:57:34] Subject ===> Search success (id : 456)
+[2025-12-29 14:57:48] Subject ===> Search success (id : 456)
+[2025-12-29 14:58:05] Subject ===> Edited (id : 456)
+[2025-12-29 14:58:11] Subject ===> Show all requested
+[2025-12-29 14:58:24] Subject ===> Search success (id : 456)
+[2025-12-29 14:58:24] Subject ===> Removed (id : 456)
+[2025-12-29 14:58:29] Subject ===> Search failed (id : 456)
+[2025-12-29 15:18:26] ClassRoom ===> Added (id : 2025)
+[2025-12-29 15:18:31] ClassRoom ===> Show all requested
+[2025-12-29 15:19:07] ClassRoom ===> Edited (id : 2025)
+[2025-12-29 15:19:11] ClassRoom ===> Show all requested
+[2025-12-29 15:19:55] ClassRoom ===> Search success (id : 2025)
+[2025-12-29 16:01:07] Student ===> Show all requested
+[2025-12-29 16:04:18] ClassRoom ===> Added (id : 2025)
+[2025-12-29 16:04:23] ClassRoom ===> Show all requested
+[2025-12-29 16:04:33] ClassRoom ===> Search success (id : 2025)
+[2025-12-29 16:04:42] ClassRoom ===> Show all requested
+[2025-12-29 16:04:56] ClassRoom ===> Edited (id : 2025)
+[2025-12-29 16:05:02] ClassRoom ===> Show all requested
+[2025-12-29 16:34:55] Student ===> Added (id : 1000)
+[2025-12-29 16:35:00] Student ===> Show all requested
+[2025-12-29 16:35:29] Student ===> Show all requested
+[2025-12-29 16:35:37] Student ===> Search success (id : 1000)
+[2025-12-29 16:35:49] Student ===> Edited (id : 1000)
+[2025-12-29 16:35:55] Student ===> Show all requested
+[2025-12-29 16:36:04] Student ===> Search success (id : 1000)
+[2025-12-29 16:36:04] Student ===> Removed (id : 1000)
+[2025-12-29 16:53:10] SchoolEmployee ===> Added Employee (ID: 1000)
+[2025-12-29 17:11:09] SchoolEmployee ===> Added Employee (ID: 1000)
+[2025-12-29 17:17:34] SchoolEmployee ===> Added Employee (ID: 1000)
+[2025-12-29 17:17:34] SchoolEmployee ===> Added Employee (ID: 1001)
+[2025-12-29 17:17:34] SchoolEmployee ===> Added Employee (ID: 1002)
+[2025-12-29 17:17:34] SchoolEmployee ===> Show all requested
+[2025-12-29 17:17:34] SchoolEmployee ===> Employee count : 3
+[2025-12-29 17:17:34] SchoolEmployee ===> Search success (id : 1000)
+[2025-12-29 17:17:34] SchoolEmployee ===> Search failed (id : 1002)
+[2025-12-29 17:17:34] SchoolEmployee ===> Teacher edited (id : 1001)
+[2025-12-29 17:17:34] SchoolEmployee ===> Teacher info requested (id : 1001)
+[2025-12-29 17:17:34] SchoolEmployee ===> School Manager edited (id : 1000)
+[2025-12-29 17:17:34] SchoolEmployee ===> School Manager info requested (id : 1000)
+[2025-12-29 17:17:34] SchoolEmployee ===> Added Employee (ID: 1003)
+[2025-12-29 17:17:34] SchoolEmployee ===> Assistant Principal edited (id : 1003)
+[2025-12-29 17:17:34] SchoolEmployee ===> Assistant Principal info requested (id : 1003)
+[2025-12-29 17:17:34] SchoolEmployee ===> Janitor edited (id : 1002)
+[2025-12-29 17:17:34] SchoolEmployee ===> Janitor info requested (id : 1002)
+[2025-12-29 17:17:34] SchoolEmployee ===> Employee Removed (ID: 1002)
+[2025-12-29 17:17:34] SchoolEmployee ===> Show all requested
+[2025-12-29 17:26:04] SchoolEmployee ===> Added Employee (ID: 1000)
+[2025-12-29 17:26:10] SchoolEmployee ===> Show all requested
+[2025-12-29 17:26:35] SchoolEmployee ===> Show all requested
+[2025-12-29 17:27:23] SchoolEmployee ===> Employee Removed (ID: 1000)
+[2025-12-29 17:30:05] SchoolEmployee ===> Added Employee (ID: 1001)
+[2025-12-29 17:30:10] SchoolEmployee ===> Show all requested
+[2025-12-29 17:35:31] SchoolEmployee ===> Added Employee (ID: 1000)
+[2025-12-29 17:35:43] SchoolEmployee ===> Search success (id : 1000)
+[2025-12-29 17:42:19] SchoolEmployee ===> Added Employee (ID: 1000)
+[2025-12-29 17:42:41] SchoolEmployee ===> Search success (id : 1000)
+[2025-12-29 17:43:15] SchoolEmployee ===> Assistant Principal edited (id : 1000)
+[2025-12-29 17:43:27] SchoolEmployee ===> Assistant Principal edited (id : 1000)
+[2025-12-29 17:43:30] SchoolEmployee ===> Assistant Principal edited (id : 1000)
+[2025-12-29 17:43:36] SchoolEmployee ===> Show all requested
+[2025-12-29 17:43:53] SchoolEmployee ===> Search success (id : 1000)
+[2025-12-29 17:44:25] SchoolEmployee ===> Employee Removed (ID: 1000)
+[2025-12-29 17:44:34] SchoolEmployee ===> Show all requested
+[2025-12-29 17:55:20] SchoolEmployee ===> Added Employee (ID: 1000)
+[2025-12-29 17:55:33] SchoolEmployee ===> Show all requested
+[2025-12-29 17:55:43] SchoolEmployee ===> Search success (id : 1000)
+[2025-12-29 17:56:23] SchoolEmployee ===> Janitor edited (id : 1000)
+[2025-12-29 17:56:52] SchoolEmployee ===> Employee Removed (ID: 1000)
+[2025-12-29 17:57:08] SchoolEmployee ===> Search failed (id : 1000)
+[2025-12-29 17:58:24] SchoolEmployee ===> Added Employee (ID: 1001)
+[2025-12-29 17:58:28] SchoolEmployee ===> Show all requested
+[2025-12-29 17:58:40] SchoolEmployee ===> Search failed (id : 1000)
+[2025-12-29 17:58:46] SchoolEmployee ===> Show all requested
+[2025-12-29 17:58:55] SchoolEmployee ===> Search success (id : 1001)
+[2025-12-29 17:59:08] SchoolEmployee ===> Search success (id : 1001)
+[2025-12-29 18:30:22] Library Item ===> Item added (id : 2000)
+[2025-12-29 18:30:26] Library Item ===> Show all items requested
+[2025-12-29 18:30:38] Library Item ===> Show all items requested
+[2025-12-29 18:30:47] Library Item ===> Search success (id : 2000)
+[2025-12-29 18:31:00] Library Item ===> Search success (id : 2000)
+[2025-12-29 18:31:38] Library Item ===> Search success (id : 2000)
+[2025-12-29 18:31:56] Library Item ===> Search success (id : 2000)
+[2025-12-29 18:31:56] Library Item ===> Item removed (id : 2000)
+[2025-12-29 18:58:32] Library Item ===> Item added (id : 2000)
+[2025-12-29 18:58:35] Library Item ===> Show all items requested
+[2025-12-29 18:58:45] Library Item ===> Show all items requested
+[2025-12-29 18:58:54] Library Item ===> Search success (id : 2000)
+[2025-12-29 18:58:58] Library Item ===> Magazine edited (id : 2000)
+[2025-12-29 18:59:07] Library Item ===> Search success (id : 2000)
+[2025-12-29 18:59:07] Library Item ===> Item removed (id : 2000)
+[2025-12-29 19:16:25] Member ===> Added (membership_num : 9485125)
+[2025-12-29 19:16:31] Library Member ===> Show all items requested
+[2025-12-29 19:16:46] Library Member ===> Show all items requested
+[2025-12-29 19:16:56] Library Member ===> Show all items requested
+[2025-12-29 19:17:00] Library Member ===> Show all items requested
+[2025-12-29 19:17:14] Member ===> Search success (membership_num : 9485125)
+[2025-12-29 19:17:43] Member ===> Edited (membership_num : 111)
+[2025-12-29 19:17:57] Member ===> Search success (membership_num : 111)
+[2025-12-29 19:18:05] Member ===> Search success (membership_num : 111)
+[2025-12-29 19:18:17] Member ===> Search success (membership_num : 111)
+[2025-12-29 19:18:17] Member ===> Removed (membership_num : 111)
+[2025-12-29 19:18:20] Member ===> Search failed (membership_num : 111)
+[2025-12-29 21:28:30] SchoolEmployee ===> Added Employee (ID: 1000)
+[2025-12-29 21:28:30] SchoolEmployee ===> Added Employee (ID: 1001)
+[2025-12-29 21:28:30] SchoolEmployee ===> Added Employee (ID: 1002)
+[2025-12-29 21:28:30] SchoolEmployee ===> Show all requested
+[2025-12-29 21:28:30] SchoolEmployee ===> Employee count : 3
+[2025-12-29 21:28:30] SchoolEmployee ===> Search success (id : 1000)
+[2025-12-29 21:28:30] SchoolEmployee ===> Search failed (id : 9999)
+[2025-12-29 21:28:30] SchoolEmployee ===> Teacher edited (id : 1001)
+[2025-12-29 21:28:30] SchoolEmployee ===> Teacher info requested (id : 1001)
+[2025-12-29 21:28:30] SchoolEmployee ===> School Manager edited (id : 1000)
+[2025-12-29 21:28:30] SchoolEmployee ===> School Manager info requested (id : 1000)
+[2025-12-29 21:28:30] SchoolEmployee ===> Added Employee (ID: 1003)
+[2025-12-29 21:28:30] SchoolEmployee ===> Assistant Principal edited (id : 1003)
+[2025-12-29 21:28:30] SchoolEmployee ===> Assistant Principal info requested (id : 1003)
+[2025-12-29 21:28:30] SchoolEmployee ===> Janitor edited (id : 1002)
+[2025-12-29 21:28:30] SchoolEmployee ===> Janitor info requested (id : 1002)
+[2025-12-29 21:28:30] SchoolEmployee ===> Employee Removed (ID: 1002)
+[2025-12-29 21:28:30] SchoolEmployee ===> Show all requested
+[2025-12-30 15:29:31] Student ===> Added (id : 1000)
+[2025-12-30 15:30:28] Student ===> Added (id : 1002)
+[2025-12-30 15:31:28] Student ===> Added (id : 1004)
+[2025-12-30 15:31:36] Student ===> Show all requested
+[2025-12-30 15:32:13] Student ===> Show all requested
+[2025-12-30 15:32:26] Student ===> Search success (id : 1000)
+[2025-12-30 15:32:39] Student ===> Edited (id : 1000)
+[2025-12-30 15:32:56] Student ===> Search failed (id : 10002)
+[2025-12-30 15:33:09] Student ===> Search success (id : 1004)
+[2025-12-30 15:33:15] Student ===> Search success (id : 1002)
+[2025-12-30 15:33:20] Student ===> Search success (id : 1000)
+[2025-12-30 15:33:32] Student ===> Search success (id : 1000)
+[2025-12-30 15:33:32] Student ===> Removed (id : 1000)
+[2025-12-30 15:33:37] Student ===> Search failed (id : 1000)
+[2025-12-30 15:33:44] Student ===> Search success (id : 1002)
+[2025-12-30 15:33:44] Student ===> Removed (id : 1002)
+[2025-12-30 15:33:51] Student ===> Search success (id : 1004)
+[2025-12-30 15:33:51] Student ===> Removed (id : 1004)
+[2025-12-30 15:33:55] Student ===> Show all requested
+[2025-12-30 15:35:06] SchoolEmployee ===> Show all requested
+[2025-12-30 15:37:02] SchoolEmployee ===> Added Employee (ID: 1000)
+[2025-12-30 15:37:13] SchoolEmployee ===> Show all requested
+[2025-12-30 15:37:26] SchoolEmployee ===> Search success (id : 1000)
+[2025-12-30 17:42:19] Library Item ===> Item added (id : 2000)
+[2025-12-30 17:42:24] Library Item ===> Show all items requested
+[2025-12-30 17:42:35] Library Item ===> Search failed (id : 1000)
+[2025-12-30 17:42:39] Library Item ===> Show all items requested
+[2025-12-30 17:42:50] Library Item ===> Search success (id : 2000)
+[2025-12-30 17:42:58] Library Item ===> DVD edited (id : 2000)
+[2025-12-30 17:43:10] Library Item ===> Search success (id : 2000)
+[2025-12-30 17:43:13] Library Item ===> Search success (id : 2000)
+[2025-12-30 17:43:25] Library Item ===> Search success (id : 2000)
+[2025-12-30 17:43:25] Library Item ===> Item removed (id : 2000)
+[2025-12-30 20:38:09] ClassRoom ===> Added (id : 2025)
+[2025-12-30 20:38:09] ClassRoom ===> Added (id : 2028)
+[2025-12-30 20:38:09] ClassRoom ===> Info requested (id : 2025)
+[2025-12-30 20:38:09] ClassRoom ===> Info requested (id : 2028)
+[2025-12-30 20:38:09] ClassRoom ===> Show all requested
+[2025-12-30 20:38:09] ClassRoom ===> Search success (id : 2025)
+[2025-12-30 20:38:09] ClassRoom ===> Search failed (id : 9999)
+[2025-12-30 20:38:09] ClassRoom ===> Edited (id : 2025)
+[2025-12-30 20:38:09] ClassRoom ===> Info requested (id : 2025)
+[2025-12-30 20:38:09] ClassRoom ===> Removed (id : 2028)
+[2025-12-30 20:38:09] ClassRoom ===> Show all requested
+[2025-12-30 20:38:09] ClassRoom ===> Count requested (total : 1)
+[2025-12-30 20:38:30] Student ===> Show all requested
+[2025-12-30 20:42:40] Library Item ===> Item added (id : 2000)
+[2025-12-30 20:42:44] Library Item ===> Show all items requested
+[2025-12-30 20:43:03] Library Item ===> Show all items requested
+[2025-12-30 20:43:14] Library Item ===> Search success (id : 2000)
+[2026-01-03 11:35:16] SchoolEmployee ===> Show all requested
+[2026-01-03 11:51:49] Student ===> Added (id : 1000)
+[2026-01-03 11:53:14] Student ===> Show all requested
+[2026-01-03 12:04:05] Library Item ===> Show all items requested
+[2026-01-03 12:08:40] Student ===> Added (id : 1000)
+[2026-01-03 12:08:56] Student ===> Show all requested
+[2026-01-03 12:09:15] Student ===> Search failed (id : 456)
+[2026-01-03 12:09:21] Student ===> Show all requested
+[2026-01-03 12:09:28] Student ===> Search success (id : 1000)
+[2026-01-03 12:09:35] Student ===> Edited (id : 1000)
+[2026-01-03 12:09:50] Student ===> Search success (id : 1000)
+[2026-01-03 12:10:01] Student ===> Search success (id : 1000)
+[2026-01-03 12:10:01] Student ===> Removed (id : 1000)
+[2026-01-03 12:15:10] Student ===> Added (id : 1000)
+[2026-01-03 12:15:17] Student ===> Show all requested
+[2026-01-03 12:15:30] Student ===> Search success (id : 1000)
+[2026-01-03 12:15:43] Student ===> Edited (id : 1000)
+[2026-01-03 12:15:46] Student ===> Show all requested
+[2026-01-03 12:16:00] Student ===> Search success (id : 1000)
+[2026-01-03 12:16:04] Student ===> Search failed (id : 100)
+[2026-01-03 12:20:01] Student ===> Added (id : 1000)
+[2026-01-03 12:20:18] Student ===> Search failed (id : 10)
+[2026-01-03 12:20:22] Student ===> Search success (id : 1000)
+[2026-01-03 12:20:32] Student ===> Search failed (id : 11)
+[2026-01-03 12:20:39] Student ===> Search success (id : 1000)
+[2026-01-03 12:20:41] Student ===> Search success (id : 1000)
+[2026-01-03 12:20:48] Student ===> Search success (id : 1000)
+[2026-01-03 12:20:48] Student ===> Removed (id : 1000)
+[2026-01-03 12:20:54] Student ===> Search failed (id : 1000)
+[2026-01-03 12:23:25] Subject ===> Added (id : 456)
+[2026-01-03 12:23:30] Subject ===> Show all requested
+[2026-01-03 12:23:34] Subject ===> Show all requested
+[2026-01-03 12:23:41] Subject ===> Search success (id : 456)
+[2026-01-03 12:23:51] Subject ===> Edited (id : 456)
+[2026-01-03 12:24:02] Subject ===> Search success (id : 456)
+[2026-01-03 12:24:11] Subject ===> Search success (id : 456)
+[2026-01-03 12:24:11] Subject ===> Removed (id : 456)
+[2026-01-03 12:24:17] Subject ===> Search failed (id : 456)
+[2026-01-03 12:27:33] ClassRoom ===> Added (id : 2028)
+[2026-01-03 12:27:38] ClassRoom ===> Show all requested
+[2026-01-03 12:28:01] ClassRoom ===> Edited (id : 2028)
+[2026-01-03 12:28:09] ClassRoom ===> Search success (id : 2028)
+[2026-01-03 12:28:12] ClassRoom ===> Search failed (id : 202)
+[2026-01-03 12:28:28] ClassRoom ===> Removed (id : 2028)
+[2026-01-03 12:34:00] SchoolEmployee ===> Added Employee (ID: 1000)
+[2026-01-03 12:34:03] SchoolEmployee ===> Show all requested
+[2026-01-03 12:34:07] SchoolEmployee ===> Show all requested
+[2026-01-03 12:34:17] SchoolEmployee ===> Search success (id : 1000)
+[2026-01-03 12:40:16] SchoolEmployee ===> Added Employee (ID: 1000)
+[2026-01-03 12:40:20] SchoolEmployee ===> Show all requested
+[2026-01-03 12:40:28] SchoolEmployee ===> Show all requested
+[2026-01-03 12:40:35] SchoolEmployee ===> Search success (id : 1000)
+[2026-01-03 12:47:29] SchoolEmployee ===> Added Employee (ID: 1000)
+[2026-01-03 12:47:37] SchoolEmployee ===> Search failed (id : 2000)
+[2026-01-03 12:47:42] SchoolEmployee ===> Search success (id : 1000)
+[2026-01-03 12:47:53] SchoolEmployee ===> Search success (id : 1000)
+[2026-01-03 12:48:13] SchoolEmployee ===> Employee Removed (ID: 1000)
+[2026-01-03 12:53:03] Library Item ===> Item added (id : 2000)
+[2026-01-03 12:53:06] Library Item ===> Show all items requested
+[2026-01-03 12:53:24] Library Item ===> Show all items requested
+[2026-01-03 12:53:31] Library Item ===> Search success (id : 2000)
+[2026-01-03 12:53:54] Library Item ===> Search success (id : 2000)
+[2026-01-03 12:53:55] Library Item ===> Search success (id : 2000)
+[2026-01-03 12:53:58] Library Item ===> Search success (id : 2000)
+[2026-01-03 12:55:58] Library Item ===> Item added (id : 2000)
+[2026-01-03 12:56:01] Library Item ===> Show all items requested
+[2026-01-03 12:56:08] Library Item ===> Search success (id : 2000)
+[2026-01-03 12:56:22] Library Item ===> Search success (id : 2000)
+[2026-01-03 12:56:59] Library Item ===> Search success (id : 2000)
+[2026-01-03 12:57:06] Library Item ===> Search success (id : 2000)
+[2026-01-03 12:57:06] Library Item ===> Item removed (id : 2000)
+[2026-01-03 13:01:32] Library Item ===> Item added (id : 2000)
+[2026-01-03 13:01:41] Library Item ===> Show all items requested
+[2026-01-03 13:01:53] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:02:40] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:02:40] Library Item ===> Item removed (id : 2000)
+[2026-01-03 13:05:45] Library Item ===> Item added (id : 2000)
+[2026-01-03 13:07:55] Library Item ===> Item added (id : 2000)
+[2026-01-03 13:07:57] Library Item ===> Show all items requested
+[2026-01-03 13:08:05] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:09:32] Library Item ===> Item added (id : 2005)
+[2026-01-03 13:09:42] Library Item ===> Show all items requested
+[2026-01-03 13:09:51] Library Item ===> Search success (id : 2005)
+[2026-01-03 13:10:12] Library Item ===> Search success (id : 2005)
+[2026-01-03 13:10:19] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:10:33] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:10:33] Library Item ===> Item removed (id : 2000)
+[2026-01-03 13:14:53] Library Item ===> Item added (id : 2000)
+[2026-01-03 13:14:55] Library Item ===> Show all items requested
+[2026-01-03 13:15:05] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:15:35] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:28:49] Library Item ===> Item added (id : 2000)
+[2026-01-03 13:28:51] Library Item ===> Show all items requested
+[2026-01-03 13:28:59] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:29:04] Library Item ===> Book edited (id : 2000)
+[2026-01-03 13:30:26] Library Item ===> Show all items requested
+[2026-01-03 13:30:34] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:30:42] Library Item ===> Book edited (id : 2000)
+[2026-01-03 13:30:45] Library Item ===> Show all items requested
+[2026-01-03 13:30:55] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:31:17] Library Item ===> Book edited (id : 2000)
+[2026-01-03 13:31:19] Library Item ===> Show all items requested
+[2026-01-03 13:31:42] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:31:54] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:31:54] Library Item ===> Item removed (id : 2000)
+[2026-01-03 13:37:34] Library Item ===> Item added (id : 2000)
+[2026-01-03 13:37:52] Library Item ===> Show all items requested
+[2026-01-03 13:38:02] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:38:26] Library Item ===> Book edited (id : 2000)
+[2026-01-03 13:38:29] Library Item ===> Show all items requested
+[2026-01-03 13:38:41] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:38:45] Library Item ===> Book edited (id : 2000)
+[2026-01-03 13:38:57] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:39:07] Library Item ===> Search failed (id : 200)
+[2026-01-03 13:39:15] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:39:15] Library Item ===> Item removed (id : 2000)
+[2026-01-03 13:45:22] Library Item ===> Item added (id : 2000)
+[2026-01-03 13:45:27] Library Item ===> Show all items requested
+[2026-01-03 13:45:33] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:46:22] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:46:30] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:49:48] Library Item ===> Item added (id : 2000)
+[2026-01-03 13:49:58] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:51:09] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:54:48] Library Item ===> Item added (id : 2000)
+[2026-01-03 13:54:51] Library Item ===> Show all items requested
+[2026-01-03 13:55:00] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:55:03] Library Item ===> Book edited (id : 2000)
+[2026-01-03 13:55:05] Library Item ===> Show all items requested
+[2026-01-03 13:55:18] Library Item ===> Search success (id : 2000)
+[2026-01-03 13:55:35] Library Item ===> Search failed (id : 3)
+[2026-01-03 13:56:05] Library Item ===> Search success (id : 2000)
+[2026-01-03 14:09:42] Library Item ===> Item added (id : 2000)
+[2026-01-03 14:09:45] Library Item ===> Show all items requested
+[2026-01-03 14:09:51] Library Item ===> Search success (id : 2000)
+[2026-01-03 14:09:54] Library Item ===> Book edited (id : 2000)
+[2026-01-03 14:09:56] Library Item ===> Show all items requested
+[2026-01-03 14:15:20] Member ===> Added (membership_num : 98)
+[2026-01-03 14:15:23] Library Member ===> Show all items requested
+[2026-01-03 14:15:39] Member ===> Search failed (membership_num : 9)
+[2026-01-03 14:15:43] Member ===> Search success (membership_num : 98)
+[2026-01-03 14:16:09] Member ===> Edited (membership_num : 98)
+[2026-01-03 14:16:17] Member ===> Search success (membership_num : 98)
+[2026-01-03 14:16:26] Member ===> Search success (membership_num : 98)
+[2026-01-03 14:16:26] Member ===> Removed (membership_num : 98)
+[2026-01-03 14:16:37] Member ===> Search failed (membership_num : 98)
+[2026-01-05 02:21:21] Student ===> Show all requested
+[2026-01-07 20:14:19] Student ===> Show all requested
+[2026-01-10 22:32:29] Subject ===> Added (id : 456)
+[2026-01-10 22:32:29] Subject ===> Added (id : 460)
+[2026-01-10 22:32:29] Subject ===> Added (id : 464)
+[2026-01-10 22:32:29] Subject ===> Show all requested
+[2026-01-10 22:32:29] Subject ===> Search success (id : 460)
+[2026-01-10 22:32:29] Subject ===> Search failed (id : 9999)
+[2026-01-10 22:32:29] Subject ===> Search success (id : 456)
+[2026-01-10 22:32:29] Subject ===> Edited (id : 456)
+[2026-01-10 22:32:29] Subject ===> Removed (id : 464)
+[2026-01-10 22:32:29] Subject ===> Show all requested
+[2026-01-10 22:32:29] Subject ===> Count requested (total : 2)
+[2026-01-10 22:32:54] Subject ===> Added (id : 456)
+[2026-01-10 22:32:54] Subject ===> Added (id : 460)
+[2026-01-10 22:32:54] Subject ===> Added (id : 464)
+[2026-01-10 22:32:54] Subject ===> Show all requested
+[2026-01-10 22:32:54] Subject ===> Search success (id : 460)
+[2026-01-10 22:32:54] Subject ===> Search failed (id : 9999)
+[2026-01-10 22:32:54] Subject ===> Search success (id : 456)
+[2026-01-10 22:32:54] Subject ===> Edited (id : 456)
+[2026-01-10 22:32:54] Subject ===> Removed (id : 464)
+[2026-01-10 22:32:54] Subject ===> Show all requested
+[2026-01-10 22:32:54] Subject ===> Count requested (total : 2)
+[2026-01-10 22:33:20] Subject ===> Added (id : 456)
+[2026-01-10 22:33:20] Subject ===> Added (id : 460)
+[2026-01-10 22:33:20] Subject ===> Added (id : 464)
+[2026-01-10 22:33:20] Subject ===> Show all requested
+[2026-01-10 22:33:20] Subject ===> Search success (id : 460)
+[2026-01-10 22:33:20] Subject ===> Search failed (id : 9999)
+[2026-01-10 22:33:20] Subject ===> Search success (id : 456)
+[2026-01-10 22:33:20] Subject ===> Edited (id : 456)
+[2026-01-10 22:33:20] Subject ===> Removed (id : 464)
+[2026-01-10 22:33:20] Subject ===> Show all requested
+[2026-01-10 22:33:20] Subject ===> Count requested (total : 2)
+[2026-01-10 22:33:40] Subject ===> Added (id : 456)
+[2026-01-10 22:33:40] Subject ===> Added (id : 460)
+[2026-01-10 22:33:40] Subject ===> Added (id : 464)
+[2026-01-10 22:33:40] Subject ===> Show all requested
+[2026-01-10 22:33:40] Subject ===> Search success (id : 460)
+[2026-01-10 22:33:40] Subject ===> Search failed (id : 9999)
+[2026-01-10 22:33:40] Subject ===> Search success (id : 456)
+[2026-01-10 22:33:40] Subject ===> Edited (id : 456)
+[2026-01-10 22:33:40] Subject ===> Removed (id : 464)
+[2026-01-10 22:33:40] Subject ===> Show all requested
+[2026-01-10 22:33:40] Subject ===> Count requested (total : 2)
+[2026-01-10 22:34:57] Subject ===> Added (id : 456)
+[2026-01-10 22:34:57] Subject ===> Added (id : 460)
+[2026-01-10 22:34:57] Subject ===> Added (id : 464)
+[2026-01-10 22:34:57] Subject ===> Show all requested
+[2026-01-10 22:34:57] Subject ===> Search success (id : 460)
+[2026-01-10 22:34:57] Subject ===> Search failed (id : 9999)
+[2026-01-10 22:34:58] Subject ===> Search success (id : 456)
+[2026-01-10 22:34:58] Subject ===> Edited (id : 456)
+[2026-01-10 22:34:58] Subject ===> Removed (id : 464)
+[2026-01-10 22:34:58] Subject ===> Show all requested
+[2026-01-10 22:34:58] Subject ===> Count requested (total : 2)
+[2026-01-10 22:48:04] Subject ===> Added (id : 456)
+[2026-01-10 22:48:04] Subject ===> Added (id : 460)
+[2026-01-10 22:48:04] Subject ===> Added (id : 464)
+[2026-01-10 22:48:04] Subject ===> Show all requested
+[2026-01-10 22:48:04] Subject ===> Search success (id : 460)
+[2026-01-10 22:48:04] Subject ===> Search failed (id : 9999)
+[2026-01-10 22:48:04] Subject ===> Search success (id : 456)
+[2026-01-10 22:48:04] Subject ===> Edited (id : 456)
+[2026-01-10 22:48:04] Subject ===> Removed (id : 464)
+[2026-01-10 22:48:04] Subject ===> Show all requested
+[2026-01-10 22:48:04] Subject ===> Count requested (total : 2)
+[2026-01-10 22:48:49] Subject ===> Added (id : 456)
+[2026-01-10 22:48:49] Subject ===> Added (id : 460)
+[2026-01-10 22:48:49] Subject ===> Added (id : 464)
+[2026-01-10 22:48:49] Subject ===> Removed (id : 456)
+[2026-01-10 22:48:49] Subject ===> Removed (id : 460)
+[2026-01-10 22:48:49] Subject ===> Removed (id : 464)
+[2026-01-10 22:58:48] Subject ===> Added (id : 456)
+[2026-01-10 22:58:48] Subject ===> Added (id : 460)
+[2026-01-10 22:58:48] Subject ===> Added (id : 464)
+[2026-01-10 22:58:48] Subject ===> Show all requested
+[2026-01-10 22:58:48] Subject ===> Search success (id : 460)
+[2026-01-10 22:58:48] Subject ===> Search failed (id : 9999)
+[2026-01-10 22:58:48] Subject ===> Search success (id : 456)
+[2026-01-10 22:58:48] Subject ===> Edited (id : 456)
+[2026-01-10 22:58:48] Subject ===> Removed (id : 464)
+[2026-01-10 22:58:48] Subject ===> Show all requested
+[2026-01-10 22:58:48] Subject ===> Count requested (total : 2)
+[2026-01-10 23:03:41] Subject ===> Added (id : 456)
+[2026-01-10 23:03:41] Subject ===> Added (id : 460)
+[2026-01-10 23:03:41] Subject ===> Added (id : 464)
+[2026-01-10 23:03:41] Subject ===> Show all requested
+[2026-01-10 23:03:41] Subject ===> Search success (id : 460)
+[2026-01-10 23:03:41] Subject ===> Search failed (id : 9999)
+[2026-01-10 23:03:41] Subject ===> Search success (id : 456)
+[2026-01-10 23:03:41] Subject ===> Edited (id : 456)
+[2026-01-10 23:03:41] Subject ===> Removed (id : 464)
+[2026-01-10 23:03:41] Subject ===> Show all requested
+[2026-01-10 23:03:41] Subject ===> Count requested (total : 2)
+[2026-01-10 23:04:04] Subject ===> Added (id : 456)
+[2026-01-10 23:04:04] Subject ===> Added (id : 460)
+[2026-01-10 23:04:04] Subject ===> Added (id : 464)
+[2026-01-10 23:04:04] Subject ===> Show all requested
+[2026-01-10 23:04:04] Subject ===> Search success (id : 460)
+[2026-01-10 23:04:04] Subject ===> Search failed (id : 9999)
+[2026-01-10 23:04:04] Subject ===> Search success (id : 456)
+[2026-01-10 23:04:04] Subject ===> Edited (id : 456)
+[2026-01-10 23:04:04] Subject ===> Removed (id : 464)
+[2026-01-10 23:04:04] Subject ===> Show all requested
+[2026-01-10 23:04:04] Subject ===> Count requested (total : 2)
+[2026-01-10 23:04:52] Subject ===> Added (id : 456)
+[2026-01-10 23:04:52] Subject ===> Added (id : 460)
+[2026-01-10 23:04:52] Subject ===> Added (id : 464)
+[2026-01-10 23:04:52] Subject ===> Show all requested
+[2026-01-10 23:05:31] Subject ===> Added (id : 456)
+[2026-01-10 23:05:31] Subject ===> Added (id : 460)
+[2026-01-10 23:05:31] Subject ===> Added (id : 464)
+[2026-01-10 23:05:31] Subject ===> Removed (id : 456)
+[2026-01-10 23:05:31] Subject ===> Removed (id : 460)
+[2026-01-10 23:05:31] Subject ===> Removed (id : 464)
+[2026-01-10 23:05:38] Subject ===> Added (id : 456)
+[2026-01-10 23:05:38] Subject ===> Added (id : 460)
+[2026-01-10 23:05:38] Subject ===> Added (id : 464)
+[2026-01-10 23:05:38] Subject ===> Show all requested
+[2026-01-10 23:05:38] Subject ===> Search success (id : 460)
+[2026-01-10 23:05:38] Subject ===> Search failed (id : 9999)
+[2026-01-10 23:05:38] Subject ===> Search success (id : 456)
+[2026-01-10 23:05:38] Subject ===> Edited (id : 456)
+[2026-01-10 23:05:38] Subject ===> Removed (id : 464)
+[2026-01-10 23:05:38] Subject ===> Show all requested
+[2026-01-10 23:05:38] Subject ===> Count requested (total : 2)
+[2026-01-10 23:06:58] Subject ===> Added (id : 456)
+[2026-01-10 23:06:58] Subject ===> Added (id : 460)
+[2026-01-10 23:06:58] Subject ===> Added (id : 464)
+[2026-01-10 23:06:58] Subject ===> Search success (id : 460)
+[2026-01-10 23:06:58] Subject ===> Search failed (id : 9999)
+[2026-01-10 23:06:58] Subject ===> Search success (id : 456)
+[2026-01-10 23:06:58] Subject ===> Edited (id : 456)
+[2026-01-10 23:06:58] Subject ===> Removed (id : 464)
+[2026-01-10 23:06:58] Subject ===> Count requested (total : 2)
+[2026-01-10 23:07:33] Subject ===> Added (id : 456)
+[2026-01-10 23:07:33] Subject ===> Added (id : 460)
+[2026-01-10 23:07:33] Subject ===> Added (id : 464)
+[2026-01-10 23:07:33] Subject ===> Search success (id : 460)
+[2026-01-10 23:07:33] Subject ===> Search failed (id : 9999)
+[2026-01-10 23:07:33] Subject ===> Search success (id : 456)
+[2026-01-10 23:07:33] Subject ===> Edited (id : 456)
+[2026-01-10 23:07:33] Subject ===> Removed (id : 464)
+[2026-01-10 23:07:33] Subject ===> Count requested (total : 2)
+[2026-01-10 23:08:47] Subject ===> Added (id : 456)
+[2026-01-10 23:08:47] Subject ===> Added (id : 460)
+[2026-01-10 23:08:47] Subject ===> Added (id : 464)
+[2026-01-10 23:08:47] Subject ===> Search success (id : 460)
+[2026-01-10 23:08:47] Subject ===> Search failed (id : 9999)
+[2026-01-10 23:08:47] Subject ===> Search success (id : 456)
+[2026-01-10 23:08:47] Subject ===> Edited (id : 456)
+[2026-01-10 23:08:47] Subject ===> Removed (id : 464)
+[2026-01-10 23:08:47] Subject ===> Count requested (total : 2)
+[2026-01-10 23:10:58] Subject ===> Added (id : 456)
+[2026-01-10 23:10:58] Subject ===> Added (id : 460)
+[2026-01-10 23:10:58] Subject ===> Added (id : 464)
+[2026-01-10 23:10:58] Subject ===> Search success (id : 460)
+[2026-01-10 23:10:58] Subject ===> Search failed (id : 9999)
+[2026-01-10 23:10:58] Subject ===> Search success (id : 456)
+[2026-01-10 23:10:58] Subject ===> Edited (id : 456)
+[2026-01-10 23:10:58] Subject ===> Removed (id : 464)
+[2026-01-10 23:10:58] Subject ===> Count requested (total : 2)
+[2026-01-10 23:13:09] Subject ===> Added (id : 456)
+[2026-01-10 23:13:09] Subject ===> Added (id : 460)
+[2026-01-10 23:13:09] Subject ===> Added (id : 464)
+[2026-01-10 23:13:09] Subject ===> Show all requested
+[2026-01-10 23:13:09] Subject ===> Search success (id : 460)
+[2026-01-10 23:13:09] Subject ===> Search failed (id : 9999)
+[2026-01-10 23:13:09] Subject ===> Search success (id : 456)
+[2026-01-10 23:13:09] Subject ===> Edited (id : 456)
+[2026-01-10 23:13:09] Subject ===> Removed (id : 464)
+[2026-01-10 23:13:09] Subject ===> Show all requested
+[2026-01-10 23:13:09] Subject ===> Count requested (total : 2)
+[2026-01-10 23:15:46] Subject ===> Added (id : 456)
+[2026-01-10 23:15:46] Subject ===> Added (id : 460)
+[2026-01-10 23:15:46] Subject ===> Added (id : 464)
+[2026-01-10 23:15:46] Subject ===> Show all requested
+[2026-01-10 23:15:46] Subject ===> Search success (id : 460)
+[2026-01-10 23:15:46] Subject ===> Search failed (id : 9999)
+[2026-01-10 23:15:46] Subject ===> Search success (id : 456)
+[2026-01-10 23:15:46] Subject ===> Edited (id : 456)
+[2026-01-10 23:15:46] Subject ===> Removed (id : 464)
+[2026-01-10 23:15:46] Subject ===> Show all requested
+[2026-01-10 23:15:46] Subject ===> Count requested (total : 2)
+[2026-01-10 23:17:22] Subject ===> Added (id : 456)
+[2026-01-10 23:17:27] Subject ===> Show all requested
+[2026-01-10 23:19:36] Subject ===> Show all requested
+[2026-01-10 23:20:06] Subject ===> Added (id : 460)
+[2026-01-10 23:20:09] Subject ===> Show all requested
+[2026-01-10 23:20:37] Subject ===> Added (id : 1000)
+[2026-01-10 23:20:37] Subject ===> Added (id : 1004)
+[2026-01-10 23:20:37] Subject ===> Added (id : 1008)
+[2026-01-10 23:20:37] Subject ===> Show all requested
+[2026-01-10 23:20:37] Subject ===> Search success (id : 1004)
+[2026-01-10 23:20:37] Subject ===> Search failed (id : 9999)
+[2026-01-10 23:20:37] Subject ===> Search failed (id : 456)
+[2026-01-10 23:20:37] Subject ===> Edited (id : 1000)
+[2026-01-10 23:20:37] Subject ===> Removed (id : 1008)
+[2026-01-10 23:20:37] Subject ===> Show all requested
+[2026-01-10 23:20:37] Subject ===> Count requested (total : 2)
+[2026-01-10 23:25:08] Subject ===> Show all requested
+[2026-01-10 23:25:20] Subject ===> Search failed (id : 456)
+[2026-01-10 23:25:30] Subject ===> Search failed (id : 460)
+[2026-01-10 23:25:34] Subject ===> Show all requested
+[2026-01-10 23:27:19] Subject ===> Added (id : 1000)
+[2026-01-10 23:27:22] Subject ===> Show all requested
+[2026-01-10 23:35:53] Subject ===> Added (id : 1000)
+[2026-01-10 23:35:53] Subject ===> Added (id : 1004)
+[2026-01-10 23:35:53] Subject ===> Added (id : 1008)
+[2026-01-10 23:35:53] Subject ===> Show all requested
+[2026-01-10 23:35:53] Subject ===> Search success (id : 1004)
+[2026-01-10 23:35:53] Subject ===> Search failed (id : 9999)
+[2026-01-10 23:35:53] Subject ===> Search failed (id : 456)
+[2026-01-10 23:35:53] Subject ===> Edited (id : 1000)
+[2026-01-10 23:35:53] Subject ===> Removed (id : 1008)
+[2026-01-10 23:35:53] Subject ===> Show all requested
+[2026-01-10 23:35:53] Subject ===> Count requested (total : 2)
+[2026-01-10 23:36:55] Subject ===> Added (id : 1000)
+[2026-01-10 23:36:55] Subject ===> Added (id : 1004)
+[2026-01-10 23:36:55] Subject ===> Added (id : 1008)
+[2026-01-10 23:36:55] Subject ===> Removed (id : 1000)
+[2026-01-10 23:36:55] Subject ===> Removed (id : 1004)
+[2026-01-10 23:36:55] Subject ===> Removed (id : 1008)
+[2026-01-10 23:38:39] Subject ===> Show all requested
+[2026-01-10 23:38:50] Subject ===> Show all requested
+[2026-01-10 23:40:01] Subject ===> Added (id : 1000)
+[2026-01-10 23:40:04] Subject ===> Show all requested
+[2026-01-10 23:40:08] Subject ===> Show all requested
+[2026-01-10 23:40:25] Subject ===> Added (id : 1000)
+[2026-01-10 23:40:25] Subject ===> Added (id : 1004)
+[2026-01-10 23:40:25] Subject ===> Added (id : 1008)
+[2026-01-10 23:40:25] Subject ===> Show all requested
+[2026-01-10 23:40:25] Subject ===> Search success (id : 1004)
+[2026-01-10 23:40:25] Subject ===> Search failed (id : 9999)
+[2026-01-10 23:40:25] Subject ===> Search failed (id : 456)
+[2026-01-10 23:40:25] Subject ===> Edited (id : 1000)
+[2026-01-10 23:40:25] Subject ===> Removed (id : 1008)
+[2026-01-10 23:40:25] Subject ===> Show all requested
+[2026-01-10 23:40:25] Subject ===> Count requested (total : 2)
+[2026-01-10 23:45:09] Subject ===> Added (id : 1000)
+[2026-01-10 23:45:12] Subject ===> Show all requested
+[2026-01-10 23:53:48] Subject ===> Show all requested
+[2026-01-11 00:04:05] Subject ===> Added (id : 456)
+[2026-01-11 00:04:05] Subject ===> Added (id : 460)
+[2026-01-11 00:04:05] Subject ===> Added (id : 464)
+[2026-01-11 00:04:05] Subject ===> Show all requested
+[2026-01-11 00:04:05] Subject ===> Search success (id : 460)
+[2026-01-11 00:04:05] Subject ===> Search failed (id : 9999)
+[2026-01-11 00:04:05] Subject ===> Search success (id : 456)
+[2026-01-11 00:04:05] Subject ===> Edited (id : 456)
+[2026-01-11 00:04:05] Subject ===> Removed (id : 464)
+[2026-01-11 00:04:05] Subject ===> Show all requested
+[2026-01-11 00:04:05] Subject ===> Count requested (total : 2)
+[2026-01-11 00:05:27] Subject ===> Show all requested
+[2026-02-02 20:08:02] Subject ===> Show all requested
+[2026-02-05 14:38:06] Student ===> Added (id : 1000)
+[2026-02-05 14:38:10] Student ===> Show all requested
+[2026-02-05 14:38:14] Student ===> Show all requested
+[2026-02-05 14:38:24] Student ===> Search success (id : 1000)
+[2026-02-05 14:38:27] Student ===> Edited (id : 1000)
+[2026-02-05 14:38:39] Student ===> Search success (id : 1000)
+[2026-02-05 14:38:47] Student ===> Search success (id : 1000)
+[2026-02-05 14:38:47] Student ===> Removed (id : 1000)
+[2026-02-05 14:38:51] Student ===> Show all requested
+[2026-02-05 15:14:17] Student ===> Added (id : 1000)
+[2026-02-05 15:14:21] Student ===> Show all requested
+[2026-02-05 15:14:40] Student ===> Search success (id : 1000)
+[2026-02-05 15:14:50] Student ===> Edited (id : 1000)
+[2026-02-05 15:14:52] Student ===> Show all requested
+[2026-02-05 15:15:02] Student ===> Search success (id : 1000)
+[2026-02-05 15:15:10] Student ===> Search success (id : 1000)
+[2026-02-05 15:15:10] Student ===> Removed (id : 1000)
+[2026-02-05 15:15:13] Student ===> Show all requested
+[2026-02-10 16:48:31] ClassRoom ===> Added (id : 2025)
+[2026-02-10 16:48:31] ClassRoom ===> Added (id : 2028)
+[2026-02-10 16:48:31] ClassRoom ===> Info requested (id : 2025)
+[2026-02-10 16:48:31] ClassRoom ===> Info requested (id : 2028)
+[2026-02-10 16:48:31] ClassRoom ===> Show all requested
+[2026-02-10 16:48:31] ClassRoom ===> Search success (id : 2025)
+[2026-02-10 16:48:31] ClassRoom ===> Search failed (id : 9999)
+[2026-02-10 16:48:31] ClassRoom ===> Edited (id : 2025)
+[2026-02-10 16:48:31] ClassRoom ===> Info requested (id : 2025)
+[2026-02-10 16:48:31] ClassRoom ===> Removed (id : 2028)
+[2026-02-10 16:48:31] ClassRoom ===> Show all requested
+[2026-02-10 16:48:31] ClassRoom ===> Count requested (total : 1)
+[2026-02-10 17:13:44] ClassRoom ===> Added (id : 1)
+[2026-02-10 17:13:47] ClassRoom ===> Show all requested
+[2026-02-10 17:14:08] ClassRoom ===> Added (id : 2)
+[2026-02-10 17:14:33] ClassRoom ===> Added (id : 3)
+[2026-02-10 17:14:36] ClassRoom ===> Show all requested
+[2026-02-10 17:14:45] ClassRoom ===> Show all requested
+[2026-02-10 17:14:57] ClassRoom ===> Show all requested
+[2026-02-10 17:15:02] ClassRoom ===> Show all requested
+[2026-02-10 17:15:10] ClassRoom ===> Search success (id : 1)
+[2026-02-10 17:15:14] ClassRoom ===> Search success (id : 2)
+[2026-02-10 17:15:18] ClassRoom ===> Search success (id : 3)
+[2026-02-10 17:15:22] ClassRoom ===> Search failed (id : 4)
+[2026-02-10 17:15:33] ClassRoom ===> Search success (id : 1)
+[2026-02-10 17:15:43] ClassRoom ===> Edited (id : 1)
+[2026-02-10 17:15:46] ClassRoom ===> Show all requested
+[2026-02-10 17:15:57] ClassRoom ===> Search success (id : 1)
+[2026-02-10 17:15:57] ClassRoom ===> Removed (id : 1)
+[2026-02-10 17:16:01] ClassRoom ===> Show all requested
+[2026-02-10 17:16:27] ClassRoom ===> Added (id : 4)
+[2026-02-10 17:16:29] ClassRoom ===> Show all requested
+[2026-02-10 17:16:49] ClassRoom ===> Search success (id : 2)
+[2026-02-10 17:16:49] ClassRoom ===> Removed (id : 2)
+[2026-02-10 17:16:54] ClassRoom ===> Search success (id : 3)
+[2026-02-10 17:16:54] ClassRoom ===> Removed (id : 3)
+[2026-02-10 17:17:00] ClassRoom ===> Search success (id : 4)
+[2026-02-10 17:17:00] ClassRoom ===> Removed (id : 4)
+[2026-02-10 17:17:03] ClassRoom ===> Show all requested
+[2026-02-10 17:46:50] Library Item ===> Item added (id : 1)
+[2026-02-10 17:46:52] Library Item ===> Item added (id : 2)
+[2026-02-10 17:46:52] Library Item ===> Show all items requested
+[2026-02-10 17:47:40] Library Item ===> Item added (id : 3)
+[2026-02-10 17:47:41] Library Item ===> Item added (id : 4)
+[2026-02-10 17:47:41] Library Item ===> Item added (id : 5)
+[2026-02-10 17:47:41] Library Item ===> Item added (id : 6)
+[2026-02-10 17:47:41] Library Item ===> Show all items requested
+[2026-02-10 17:48:32] Library Item ===> Item added (id : 7)
+[2026-02-10 17:48:34] Library Item ===> Item added (id : 8)
+[2026-02-10 17:48:34] Library Item ===> Item added (id : 9)
+[2026-02-10 17:48:34] Library Item ===> Item added (id : 10)
+[2026-02-10 17:48:34] Library Item ===> Item added (id : 11)
+[2026-02-10 17:48:34] Library Item ===> Item added (id : 12)
+[2026-02-10 17:48:34] Library Item ===> Item added (id : 13)
+[2026-02-10 17:48:34] Library Item ===> Item added (id : 14)
+[2026-02-10 17:48:34] Library Item ===> Show all items requested
+[2026-02-10 17:49:36] Library Item ===> Item added (id : 15)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 16)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 17)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 18)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 19)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 20)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 21)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 22)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 23)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 24)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 25)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 26)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 27)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 28)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 29)
+[2026-02-10 17:49:38] Library Item ===> Item added (id : 30)
+[2026-02-10 17:49:38] Library Item ===> Show all items requested
+[2026-02-10 17:50:37] Library Item ===> Item added (id : 31)
+[2026-02-10 17:50:37] Library Item ===> Item removed (id : 1)
+[2026-02-10 17:50:48] Library Item ===> Item added (id : 32)
+[2026-02-10 17:50:48] Library Item ===> Item removed (id : 2)
+[2026-02-10 17:50:53] Library Item ===> Item added (id : 33)
+[2026-02-10 17:50:53] Library Item ===> Item removed (id : 3)
+[2026-02-10 17:50:58] Library Item ===> Item added (id : 34)
+[2026-02-10 17:50:58] Library Item ===> Item removed (id : 4)
+[2026-02-10 17:51:03] Library Item ===> Item added (id : 35)
+[2026-02-10 17:51:03] Library Item ===> Item removed (id : 5)
+[2026-02-10 17:51:07] Library Item ===> Item added (id : 36)
+[2026-02-10 17:51:07] Library Item ===> Item removed (id : 6)
+[2026-02-10 17:51:11] Library Item ===> Item added (id : 37)
+[2026-02-10 17:51:11] Library Item ===> Item removed (id : 7)
+[2026-02-10 17:51:15] Library Item ===> Item added (id : 38)
+[2026-02-10 17:51:15] Library Item ===> Item removed (id : 8)
+[2026-02-10 17:51:21] Library Item ===> Item added (id : 39)
+[2026-02-10 17:51:21] Library Item ===> Item removed (id : 9)
+[2026-02-10 17:51:27] Library Item ===> Item added (id : 40)
+[2026-02-10 17:51:27] Library Item ===> Item removed (id : 10)
+[2026-02-10 17:51:32] Library Item ===> Item added (id : 41)
+[2026-02-10 17:51:32] Library Item ===> Item removed (id : 11)
+[2026-02-10 17:51:37] Library Item ===> Item added (id : 42)
+[2026-02-10 17:51:37] Library Item ===> Item removed (id : 12)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 43)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 44)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 45)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 46)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 47)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 48)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 49)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 50)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 51)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 52)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 53)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 54)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 55)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 56)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 57)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 58)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 59)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 60)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 61)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 62)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 63)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 64)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 65)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 66)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 67)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 68)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 69)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 70)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 71)
+[2026-02-10 17:51:39] Library Item ===> Item added (id : 72)
+[2026-02-10 17:51:39] Library Item ===> Show all items requested
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 73)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 74)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 75)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 76)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 77)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 78)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 79)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 80)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 81)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 82)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 83)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 84)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 85)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 86)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 87)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 88)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 89)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 90)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 91)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 92)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 93)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 94)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 95)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 96)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 97)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 98)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 99)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 100)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 101)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 102)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 103)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 104)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 105)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 106)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 107)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 108)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 109)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 110)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 111)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 112)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 113)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 114)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 115)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 116)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 117)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 118)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 119)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 120)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 121)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 122)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 123)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 124)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 125)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 126)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 127)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 128)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 129)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 130)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 131)
+[2026-02-10 17:51:50] Library Item ===> Item added (id : 132)
+[2026-02-10 17:51:50] Library Item ===> Show all items requested
+[2026-02-10 17:52:04] Library Item ===> Item added (id : 133)
+[2026-02-10 17:52:04] Library Item ===> Item removed (id : 13)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 134)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 135)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 136)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 137)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 138)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 139)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 140)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 141)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 142)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 143)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 144)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 145)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 146)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 147)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 148)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 149)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 150)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 151)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 152)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 153)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 154)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 155)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 156)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 157)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 158)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 159)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 160)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 161)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 162)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 163)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 164)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 165)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 166)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 167)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 168)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 169)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 170)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 171)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 172)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 173)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 174)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 175)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 176)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 177)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 178)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 179)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 180)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 181)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 182)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 183)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 184)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 185)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 186)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 187)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 188)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 189)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 190)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 191)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 192)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 193)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 194)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 195)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 196)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 197)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 198)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 199)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 200)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 201)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 202)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 203)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 204)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 205)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 206)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 207)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 208)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 209)
+[2026-02-10 17:52:07] Library Item ===> Item added (id : 210)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 211)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 212)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 213)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 214)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 215)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 216)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 217)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 218)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 219)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 220)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 221)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 222)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 223)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 224)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 225)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 226)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 227)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 228)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 229)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 230)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 231)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 232)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 233)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 234)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 235)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 236)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 237)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 238)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 239)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 240)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 241)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 242)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 243)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 244)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 245)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 246)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 247)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 248)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 249)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 250)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 251)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 252)
+[2026-02-10 17:52:08] Library Item ===> Item added (id : 253)
+[2026-02-10 17:52:08] Library Item ===> Show all items requested
+[2026-02-10 17:54:01] Library Item ===> Show all items requested
+[2026-02-10 17:55:23] Library Item ===> Show all items requested
+[2026-02-10 17:55:37] Library Item ===> Item removed (id : 14)
+[2026-02-10 17:55:39] Library Item ===> Show all items requested
+[2026-02-10 17:56:46] Library Item ===> Show all items requested
+[2026-02-10 17:57:19] Library Item ===> Show all items requested
+[2026-02-10 17:58:16] Library Item ===> Show all items requested
+[2026-02-10 17:58:24] Library Item ===> Search failed (id : 1)
+[2026-02-10 17:58:51] Library Item ===> Show all items requested
+[2026-02-10 17:59:33] ClassRoom ===> Added (id : 1)
+[2026-02-10 18:00:37] ClassRoom ===> Added (id : 2)
+[2026-02-10 18:00:40] ClassRoom ===> Show all requested
+[2026-02-10 18:01:39] Library Item ===> Show all items requested
+[2026-02-10 18:06:14] Library Item ===> Item added (id : 1)
+[2026-02-10 18:06:16] Library Item ===> Show all items requested
+[2026-02-10 18:06:49] Library Item ===> Show all items requested
+[2026-02-10 18:07:52] Library Item ===> Show all items requested
+[2026-02-10 18:08:12] Library Item ===> Show all items requested
+[2026-02-10 18:08:43] Library Item ===> Show all items requested
+[2026-02-10 18:14:26] Library Item ===> Show all items requested
+[2026-02-10 18:14:37] Library Item ===> Item edited (id : 1)
+[2026-02-10 18:14:39] Library Item ===> Show all items requested
+[2026-02-10 18:15:21] Library Item ===> Item added (id : 2)
+[2026-02-10 18:16:01] Library Item ===> Item added (id : 3)
+[2026-02-10 18:16:06] Library Item ===> Show all items requested
+[2026-02-10 18:17:28] Library Item ===> Item added (id : 4)
+[2026-02-10 18:17:34] Library Item ===> Show all items requested
+[2026-02-10 18:18:06] Library Item ===> Item removed (id : 4)
+[2026-02-10 18:18:11] Library Item ===> Show all items requested
+[2026-02-10 18:19:08] ClassRoom ===> Show all requested
+[2026-02-10 18:19:15] ClassRoom ===> Search success (id : 1)
+[2026-02-10 18:19:23] ClassRoom ===> Search success (id : 1)
+[2026-02-10 18:19:33] ClassRoom ===> Show all requested
+[2026-02-10 18:19:36] ClassRoom ===> Show all requested
+[2026-02-10 19:15:33] Library Item ===> Show all items requested
+[2026-02-10 19:17:57] Member ===> Added (membership_num : 958746)
+[2026-02-10 19:18:03] Member ===> Show all requested
+[2026-02-10 19:18:25] Member ===> Show all requested
+[2026-02-10 19:19:14] Member ===> Search success (membership_num : 958746)
+[2026-02-10 19:19:31] Member ===> Search success (membership_num : 958746)
+[2026-02-10 19:19:53] Member ===> Edited (membership_num : 958746)
+[2026-02-10 19:19:56] Member ===> Show all requested
+[2026-02-10 19:20:02] Member ===> Search success (membership_num : 958746)
+[2026-02-10 19:21:31] Member ===> Search success (membership_num : 958746)
+[2026-02-10 19:21:31] Member ===> Removed (membership_num : 958746)
+[2026-02-10 19:21:40] Member ===> Show all requested
+[2026-02-10 19:29:15] Member ===> Added (membership_num : 456456)
+[2026-02-10 19:29:18] Member ===> Show all requested
+[2026-02-10 19:30:33] Member ===> Show all requested
+[2026-02-10 19:31:07] Member ===> Show all requested
+[2026-02-10 19:31:17] Member ===> Search success (membership_num : 456456)
+[2026-02-10 19:31:37] Member ===> Edited (membership_num : 456456)
+[2026-02-10 19:31:41] Member ===> Show all requested
+[2026-02-10 19:31:51] Member ===> Search success (membership_num : 456456)
+[2026-02-10 19:32:03] Member ===> Search success (membership_num : 456456)
+[2026-02-10 19:32:21] Member ===> Edited (membership_num : 456456)
+[2026-02-10 19:32:29] Member ===> Search success (membership_num : 456456)
+[2026-02-10 19:49:05] Library Member ===> Show all items requested
+[2026-02-10 19:49:05] Member ===> Added (membership_num : 456456)
+[2026-02-10 19:49:28] Member ===> Added (membership_num : 456456)
+[2026-02-10 19:49:28] Member ===> Search success (membership_num : 456456)
+[2026-02-10 19:50:13] Member ===> Edited (membership_num : 456456)
+[2026-02-10 19:50:23] Member ===> Search failed (membership_num : 456465)
+[2026-02-10 19:50:34] Member ===> Added (membership_num : 456456)
+[2026-02-10 19:50:34] Member ===> Search success (membership_num : 456456)
+[2026-02-10 19:57:29] Library Member ===> Show all items requested
+[2026-02-10 19:57:29] Member ===> Added (membership_num : 456456)
+[2026-02-10 19:57:41] Member ===> Added (membership_num : 456456)
+[2026-02-10 19:57:41] Member ===> Search success (membership_num : 456456)
+[2026-02-10 19:57:43] Member ===> Edited (membership_num: 456456)
+[2026-02-10 19:58:30] Member ===> Added (membership_num : 456456)
+[2026-02-10 19:58:30] Member ===> Search success (membership_num : 456456)
+[2026-02-10 19:58:38] Member ===> Edited (membership_num: 111222)
+[2026-02-10 19:58:40] Library Member ===> Show all items requested
+[2026-02-10 19:58:40] Member ===> Added (membership_num : 111222)
+[2026-02-10 19:58:49] Member ===> Added (membership_num : 111222)
+[2026-02-10 19:58:49] Member ===> Search success (membership_num : 111222)
+[2026-02-10 20:00:40] Library Member ===> Show all items requested
+[2026-02-10 20:00:40] Member ===> Added (membership_num : 111222)
+[2026-02-10 20:00:49] Member ===> Added (membership_num : 111222)
+[2026-02-10 20:00:49] Member ===> Search success (membership_num : 111222)
+[2026-02-10 20:01:11] Member ===> Edited (membership_num: 111222)
+[2026-02-10 20:01:17] Member ===> Added (membership_num : 111222)
+[2026-02-10 20:01:17] Member ===> Search success (membership_num : 111222)
+[2026-02-10 20:01:50] Member ===> Edited (membership_num: 111222)
+[2026-02-10 20:01:58] Member ===> Added (membership_num : 111222)
+[2026-02-10 20:01:58] Member ===> Search success (membership_num : 111222)
+[2026-02-10 20:07:50] Library Member ===> Show all items requested
+[2026-02-10 20:07:50] Member ===> Added (membership_num : 111222)
+[2026-02-10 20:08:32] Library Member ===> Show all items requested
+[2026-02-10 20:08:32] Member ===> Added (membership_num : 111222)
+[2026-02-10 20:10:42] Library Member ===> Show all items requested
+[2026-02-10 20:10:42] Member ===> Added (membership_num : 111222)
+[2026-02-10 20:16:54] Library Member ===> Show all items requested
+[2026-02-10 20:17:08] Member ===> Add FAILED (membership_num: 111222) - UNIQUE constraint failed: members.membership_num
+[2026-02-10 20:45:52] Member ===> Show all items requested
+[2026-02-10 20:46:02] Member ===> Search success (membership_num: 111222)
+[2026-02-10 20:46:13] Member ===> Edited (membership_num: 111222)
+[2026-02-10 20:46:22] Member ===> Search success (membership_num: 111222)
+[2026-02-10 20:46:32] Member ===> Show all items requested
+[2026-02-10 20:58:02] Student ===> Added (id : 1)
+[2026-02-10 20:58:06] Student ===> Show all requested
+[2026-02-10 20:58:59] Student ===> Added (id : 2)
+[2026-02-10 20:59:01] Student ===> Show all requested
+[2026-02-10 21:03:00] Student ===> Added (id : 3)
+[2026-02-10 21:03:03] Student ===> Show all requested
+[2026-02-10 21:03:09] Student ===> Search success (id : 1)
+[2026-02-10 21:03:22] Student ===> Search success (id : 3)
+[2026-02-10 21:03:53] Student ===> Search success (id : 3)
+[2026-02-10 21:04:07] Student ===> Edited (id : 3)
+[2026-02-10 21:04:10] Student ===> Show all requested
+[2026-02-10 21:04:45] Student ===> Added (id : 4)
+[2026-02-10 21:04:46] Student ===> Show all requested
+[2026-02-10 21:04:49] Student ===> Show all requested
+[2026-02-10 21:04:56] Student ===> Search success (id : 4)
+[2026-02-10 21:04:56] Student ===> Removed (id : 4)
+[2026-02-10 21:04:58] Student ===> Show all requested
+[2026-02-10 21:14:59] ClassRoom ===> Show all requested
+[2026-02-10 21:15:16] ClassRoom ===> Show all requested
+[2026-02-10 21:15:26] Student ===> Show all requested
+[2026-02-10 21:15:30] ClassRoom ===> Show all requested
+[2026-02-10 21:19:09] Student ===> Show all requested
+[2026-02-10 21:19:13] ClassRoom ===> Show all requested
+[2026-02-10 21:21:39] ClassRoom ===> Show all requested
+[2026-02-10 21:24:42] ClassRoom ===> Show all requested
+[2026-02-10 21:29:42] Student ===> Added (id : 5)
+[2026-02-10 21:30:10] Student ===> Search success (id : 1)
+[2026-02-10 21:30:15] Student ===> Edited (id : 1)
+[2026-02-10 21:31:39] Student ===> Search success (id : 1)
+[2026-02-10 21:31:39] Student ===> Removed (id : 1)
+[2026-02-10 21:31:44] Student ===> Search success (id : 2)
+[2026-02-10 21:31:44] Student ===> Removed (id : 2)
+[2026-02-10 21:31:49] Student ===> Search success (id : 3)
+[2026-02-10 21:31:49] Student ===> Removed (id : 3)
+[2026-02-10 21:31:54] Student ===> Search failed (id : 4)
+[2026-02-10 21:31:58] Student ===> Show all requested
+[2026-02-10 21:32:04] Student ===> Search success (id : 5)
+[2026-02-10 21:32:04] Student ===> Removed (id : 5)
+[2026-02-10 21:32:32] ClassRoom ===> Added (id : 3)
+[2026-02-10 21:32:35] ClassRoom ===> Show all requested
+[2026-02-10 21:33:29] Student ===> Added (id : 6)
+[2026-02-10 21:34:08] Student ===> Search failed (id : 1)
+[2026-02-10 21:34:11] Student ===> Show all requested
+[2026-02-10 21:34:19] Student ===> Search success (id : 6)
+[2026-02-10 21:34:41] Student ===> Show all requested
+[2026-02-10 21:34:49] Student ===> Search success (id : 6)
+[2026-02-10 21:34:57] Student ===> Edited (id : 6)
+[2026-02-10 21:35:10] Student ===> Search success (id : 6)
+[2026-02-10 21:35:44] Student ===> Show all requested
+[2026-02-10 21:35:56] ClassRoom ===> Show all requested
+[2026-02-10 21:36:02] Library Item ===> Show all items requested
+[2026-02-10 21:36:31] Member ===> Show all items requested
+[2026-02-10 23:00:38] Subject ===> Added (id : 1)
+[2026-02-10 23:00:40] Subject ===> Show all requested
+[2026-02-10 23:00:50] Subject ===> Search success (id : 1)
+[2026-02-10 23:00:57] Subject ===> Edited (id : 1)
+[2026-02-10 23:00:58] Subject ===> Show all requested
+[2026-02-10 23:01:07] Subject ===> Search success (id : 1)
+[2026-02-10 23:25:03] Employee added (id : 1)
+[2026-02-10 23:27:28] Employee added (id : 2)
+[2026-02-10 23:27:37] Employee added (id : 3)
+[2026-02-11 14:16:42] Employee added (id : 4)
+[2026-02-11 14:41:24] Employee removed (id : 1)
+[2026-02-11 14:42:35] Employee edited (id : 2)
+[2026-02-11 14:43:26] Employee edited (id : 2)
+[2026-02-11 15:07:11] Employee removed (id : 2)
+[2026-02-11 15:08:29] Employee edited (id : 3)
+[2026-02-11 15:15:19] Application started
+[2026-02-11 15:16:25] Application started
+[2026-02-11 15:21:09] Application Started
+[2026-02-11 15:21:17] Application Closed
+[2026-02-11 15:21:20] Application Started
+[2026-02-11 15:21:25] Application Closed
+[2026-02-11 15:21:42] Application Started
+[2026-02-11 15:22:07] Application Closed
+[2026-02-11 16:04:40] Application started.
+[2026-02-11 16:04:42] Member ===> Show all items requested
+[2026-02-11 16:04:48] ClassRoom ===> Show all requested
+[2026-02-11 16:04:52] Student ===> Show all requested
+[2026-02-11 16:04:57] ClassRoom ===> Show all requested
+[2026-02-11 16:05:01] Subject ===> Show all requested
+[2026-02-11 16:05:12] Library Item ===> Show all items requested
+[2026-02-11 16:05:18] Application closed by user.
+[2026-02-12 14:19:29] Application started.
+[2026-02-12 14:19:38] ClassRoom ===> Show all requested
+[2026-02-12 14:21:54] Application closed by user.
+[2026-02-16 16:29:12] Application started.
+[2026-02-16 16:29:15] Application closed by user.
+[2026-02-16 16:29:19] Application started.
+[2026-02-16 16:29:22] Application closed by user.
