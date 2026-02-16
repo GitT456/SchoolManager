@@ -248,3 +248,37 @@ Feel free to submit issues or pull requests to improve the project.
 ---
 
 ### ⭐ If you like this project, don’t forget to give it a star on GitHub!
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center" style="font-size:0">
+  <a href="https://www.linkedin.com/in/taha-zarei-636881357" target="_blank" style="margin:0 8px" class="social-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" height="35" style="fill:white; background-color:#0A66C2; border-radius:50%; padding:5px"/>
+  </a>
+  <a href="https://t.me/TahaZarei" target="_blank" style="margin:0 8px" class="social-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/telegram.svg" alt="Telegram" height="35" style="fill:white; background-color:#26A5E4; border-radius:50%; padding:5px"/>
+  </a>
+  <a href="https://www.kaggle.com/tahazarei" target="_blank" style="margin:0 8px" class="social-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/kaggle.svg" alt="Kaggle" height="35" style="fill:white; background-color:#20BEFF; border-radius:50%; padding:5px"/>
+  </a>
+  <a href="https://x.com/ZareiTaha20320" target="_blank" style="margin:0 8px" class="social-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" alt="Twitter" height="35" style="fill:white; background-color:#1DA1F2; border-radius:50%; padding:5px"/>
+  </a>
+  <a href="mailto:mst110202@gmail.com" target="_blank" style="margin:0 8px" class="social-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Email" height="35" style="fill:white; background-color:#D14836; border-radius:50%; padding:5px"/>
+  </a>
+</p>
+
+<style>
+.social-icon img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.social-icon:hover img {
+  transform: scale(1.2); 
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3); 
+}
+</style>
+
+
